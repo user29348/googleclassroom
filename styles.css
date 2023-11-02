@@ -63,7 +63,7 @@
 }
 
 * {
-	accent-color:lime;
+	accent-color:blue;
 }
 
 .gb_yd {
@@ -71,13 +71,13 @@
 }
 
 .r8KdYe {
-	border-left-color: rgb(0,100,0)
+	border-left-color: rgb(0,0,100)
 }
 .s2g3Xd .CMmBPd > div > .QRiHXd {
 	width: 1200px!important;
 }
 .BiaLW .z3vRcc {
-	color: rgb(0,200,0)
+	color: rgb(0,0,200)
 }
 .BiaLW .B2pRjc {
 	color: rgb(150,150,150)
@@ -229,7 +229,7 @@ body {
 }
 .op:hover {
 	padding: 10px;
-	box-shadow: 3px 3px 50px rgb(0,150,0)
+	box-shadow: 3px 3px 50px rgb(0,0,150)
 }
 
 
@@ -237,7 +237,7 @@ body {
 	padding: 10px;
 }
 #close:hover{
-	box-shadow: 3px 3px 50px rgb(0,150,0)
+	box-shadow: 3px 3px 50px rgb(0,0,150)
 }
 
 
@@ -302,7 +302,7 @@ iframe[name="account"] {
 	background-color: rgb(0,0,0)!important
 }
 .TIunU:hover {
- 	box-shadow: 10px 10px 20px rgb(0,150,0);
+ 	box-shadow: 10px 10px 20px rgb(0,0,150);
  }
 .TIunU {
 	background-color: rgb(0,0,0,0.5)!important
@@ -314,12 +314,12 @@ iframe[name="account"] {
 	display: none!important
 }
 .VfPpkd-Bz112c-LgbsSe:hover {
-	box-shadow: 0px 0px 20px rgb(0,150,0);
+	box-shadow: 0px 0px 20px rgb(0,0,150);
 
 	z-index: 100!important;
 }
 .WpHeLc:hover {
-	box-shadow: 0px 0px 10px rgb(0,100,0);
+	box-shadow: 0px 0px 10px rgb(0,0,100);
 }
 .zObJFf > .QRiHXd {
 	box-shadow: 0px 0px 40px rgb(0,0,0);
@@ -329,7 +329,7 @@ z-index: 1
 	
 }
 .qr5cDe:hover,.Xi8cpb:hover {
-	box-shadow: 3px 3px 100px rgb(0,150,0);
+	box-shadow: 3px 3px 100px rgb(0,0,150);
 	z-index: 20!important
 }
 button {
@@ -481,11 +481,11 @@ background-color: rgb(0,0,0,0.7)!important
 .VfPpkd-StrnGf-rymPhb-ibnC6b:hover {
 	width: 89%!important;
 	height: 75px!important;
-	box-shadow: 0px 0px 20px rgb(0,100,0)
+	box-shadow: 0px 0px 20px rgb(0,0,100)
 }
 .JwPp0e .rZXyy:hover {
 	background-color: rgb(0,0,0,0.8)!important;
-	box-shadow: 0px 0px 20px rgb(0,100,0)!important
+	box-shadow: 0px 0px 20px rgb(0,0,100)!important
 	
 }
 .JwPp0e .VfPpkd-xl07Ob-XxIAqe-OWXEXe-FNFY6c .DMZ54e {
@@ -577,7 +577,7 @@ background-color: rgb(0,0,0,0.7)!important
 	background-color: rgb(30,30,30)!important
 }
 .K6Ovqd {
-	color: rgb(0,200,0)!important
+	color: rgb(0,0,200)!important
 }
 
 .AWfQId {
@@ -623,7 +623,7 @@ boxOzd {
 	position: fixed;
 	left:1400px;
 	z-index: 1;
-	color: rgb(0,200,0);
+	color: rgb(0,0,200);
 	background-color: rgb(40,40,40);
 	top:200px;
 	font-size: 30px;
@@ -726,13 +726,13 @@ h3 {
 	color: rgb(200,200,200);
 }
 .z3vRcc-ZoZQ1 {
-	color: rgb(10,200,10);
+	color: rgb(10,10,200);
 }
 .Pce5Kb {
-	color: rgb(0,200,0);
+	color: rgb(0,0,200);
 }
 .asQXV {
-	color: rgb(0,200,0)!important;
+	color: rgb(0,0,200)!important;
 }
 .NMm5M {
 	color: rgb(200,200,200);
@@ -756,10 +756,10 @@ body {
 
 }
 a {
-	color: rgb(0,200,0)!important;
+	color: rgb(0,0,200)!important;
 }
 a:hover {
-	color: rgb(100,200,100)!important;
+	color: rgb(100,100,200)!important;
 }
 .Tabkde .OX4Vcb {}
 
@@ -876,7 +876,7 @@ a:hover {
 	height: 40px;
 }
 .hN1OOc.eumXzf:after {
-	border-color: lime;
+	border-color: blue;
 }
 .hN1OOc.eumXzf {
 	background-color: rgb(40,40,40)!important;
@@ -992,16 +992,16 @@ a:hover {
 	color: rgb(200,200,200)
 }
 .B7SYid span {
-	color: rgb(0,200,0)
+	color: rgb(0,0,200)
 }
 .P47N4e {
 	display: none
 }
 .ypv4re {
-	border-color: rgb(0,200,0)!important;
+	border-color: rgb(0,0,200)!important;
 }
 .RveJvd {
-	color:rgB(0,200,0);
+	color:rgB(0,0,200);
 }
 .UQuaGc {
 	background-color: rgb(30,30,30);
@@ -1031,7 +1031,7 @@ a:hover {
 	width: 1250px
 }
 .A6dC2c.zZN2Lb-Wvd9Cc {
-	color: rgb(0,200,0)!important
+	color: rgb(0,0,200)!important
 }
 .UISY8d-Ysl7Fe {
 	background-color: rgb(20,20,20)!important
@@ -1041,7 +1041,7 @@ a:hover {
 	background-color: rgb(20,20,20)!important
 }
 .m1PbN {
-	background-color: rgb(0,100,0)!important
+	background-color: rgb(0,0,100)!important
 }
 .Ag4wUb .uO32ac {
 	border: none
@@ -1320,7 +1320,7 @@ a:hover {
 	padding-top: 200px!important;
 }
 h2 {
-	color: rgb(0,200,0)!important
+	color: rgb(0,0,200)!important
 }
 .xVPuB .I9OJHe {
 	border: none!important;
@@ -1423,7 +1423,7 @@ h2 {
 	padding-right: 20px
 }
 .ksaOtd {
-	color: rgb(0,200,0)
+	color: rgb(0,0,200)
 }
 .Rj2Mlf.OLiIxf.PDpWxe.LQeN7.eVOdue.FL3Khc {
 	width:300px!important;
@@ -1519,7 +1519,7 @@ h2 {
 .M4LFnf:hover {
 	background-color: rgb(0,0,0)!important;
 	width: 80%!important;
-	box-shadow: 5px 5px 20px rgb(0,100,0)
+	box-shadow: 5px 5px 20px rgb(0,0,100)
 }
 .u73Apc {
 	margin: 10px!important;
@@ -1546,7 +1546,7 @@ h2 {
 	background-color: rgb(0,0,0,0.2)!important
 }
 .ee1HBc.bFjUmb-Wvd9Cc, .ee1HBc .bFjUmb-Wvd9Cc, .ee1HBc.CNpREd.bFjUmb-Wvd9Cc, .ee1HBc.CNpREd .bFjUmb-Wvd9Cc {
-    background-color: rgb(0,200,0);!important
+    background-color: rgb(0,0,200);!important
 }
 .kRqvHe.bFjUmb-Ysl7Fe {
 	background-color: rgb(0,0,0)!important
@@ -1653,7 +1653,7 @@ img {
 	background-color: rgb(0,0,0,0.5)
 }
 .Evt7cb {
-	color: rgb(0,200,0)!important
+	color: rgb(0,0,200)!important
 }
 .kCyAyd .l4V7wb {
 	text-align: center!important; 
@@ -1729,7 +1729,7 @@ backdrop-filter:blur(6px)!important;
 	height: 10px;
 	width: 1200px;
 	margin-left: 20px;
-	box-shadow: 0px 0px 30px rgb(0,200,0)
+	box-shadow: 0px 0px 30px rgb(0,0,200)
 }
 .QRiHXd.VBEdtc-Wvd9Cc {
 	background-color: rgb(0,0,0,0)!important;
@@ -1751,14 +1751,14 @@ backdrop-filter:blur(6px)!important;
 
 }
 .cnOaDb.vTcY1d .nZC2Ae {
-	color: rgb(0,150,0)!important
+	color: rgb(0,0,150)!important
 }
 .qk0lee {
 	background-color: rgb(0,0,0,0)!important;
 }
 
 .cXrdqd {
-	background-color: rgb(0,200,0)!important;
+	background-color: rgb(0,0,200)!important;
 	border: red!important
 }
 .svNSpd {
@@ -2007,7 +2007,7 @@ c
 	background-color: rgb(0,0,0,0.5)
 }
 .q1Kmyc {
-    border-color: rgb(0, 100, 0)!important;
+    border-color: rgb(0, 0, 100)!important;
 }
 
 .CcC9kf .ALvsPd .I9OJHe {
@@ -2062,7 +2062,7 @@ a[aria-label~="Calender"] {
 
 
 .gJk24c {
-color:rgb(0,200,0);	
+color:rgb(0,0,200);	
 }
 
 
@@ -2165,7 +2165,7 @@ li:hover{
 }
 
 * {
-	accent-color:lime;
+	accent-color:blur;
 }
 
 .gb_yd {
@@ -2173,13 +2173,13 @@ li:hover{
 }
 
 .r8KdYe {
-	border-left-color: rgb(0,100,0)
+	border-left-color: rgb(0,0,100)
 }
 .s2g3Xd .CMmBPd > div > .QRiHXd {
 	width: 1200px!important;
 }
 .BiaLW .z3vRcc {
-	color: rgb(0,200,0)
+	color: rgb(0,0,200)
 }
 .BiaLW .B2pRjc {
 	color: rgb(150,150,150)
@@ -2331,7 +2331,7 @@ body {
 }
 .op:hover {
 	padding: 10px;
-	box-shadow: 3px 3px 50px rgb(0,150,0)
+	box-shadow: 3px 3px 50px rgb(0,0,150)
 }
 
 
@@ -2339,7 +2339,7 @@ body {
 	padding: 10px;
 }
 #close:hover{
-	box-shadow: 3px 3px 50px rgb(0,150,0)
+	box-shadow: 3px 3px 50px rgb(0,0,150)
 }
 
 
@@ -2404,7 +2404,7 @@ iframe[name="account"] {
 	background-color: rgb(0,0,0)!important
 }
 .TIunU:hover {
- 	box-shadow: 10px 10px 20px rgb(0,150,0);
+ 	box-shadow: 10px 10px 20px rgb(0,0,150);
  }
 .TIunU {
 	background-color: rgb(0,0,0,0.5)!important
@@ -2416,12 +2416,12 @@ iframe[name="account"] {
 	display: none!important
 }
 .VfPpkd-Bz112c-LgbsSe:hover {
-	box-shadow: 0px 0px 20px rgb(0,150,0);
+	box-shadow: 0px 0px 20px rgb(0,0,150);
 
 	z-index: 100!important;
 }
 .WpHeLc:hover {
-	box-shadow: 0px 0px 10px rgb(0,100,0);
+	box-shadow: 0px 0px 10px rgb(0,0,100);
 }
 .zObJFf > .QRiHXd {
 	box-shadow: 0px 0px 40px rgb(0,0,0);
@@ -2431,7 +2431,7 @@ z-index: 1
 	
 }
 .qr5cDe:hover,.Xi8cpb:hover {
-	box-shadow: 3px 3px 100px rgb(0,150,0);
+	box-shadow: 3px 3px 100px rgb(0,0,150);
 	z-index: 20!important
 }
 button {
@@ -2583,11 +2583,11 @@ background-color: rgb(0,0,0,0.7)!important
 .VfPpkd-StrnGf-rymPhb-ibnC6b:hover {
 	width: 89%!important;
 	height: 75px!important;
-	box-shadow: 0px 0px 20px rgb(0,100,0)
+	box-shadow: 0px 0px 20px rgb(0,0,100)
 }
 .JwPp0e .rZXyy:hover {
 	background-color: rgb(0,0,0,0.8)!important;
-	box-shadow: 0px 0px 20px rgb(0,100,0)!important
+	box-shadow: 0px 0px 20px rgb(0,0,100)!important
 	
 }
 .JwPp0e .VfPpkd-xl07Ob-XxIAqe-OWXEXe-FNFY6c .DMZ54e {
@@ -2679,7 +2679,7 @@ background-color: rgb(0,0,0,0.7)!important
 	background-color: rgb(30,30,30)!important
 }
 .K6Ovqd {
-	color: rgb(0,200,0)!important
+	color: rgb(0,0,200)!important
 }
 
 .AWfQId {
@@ -2725,7 +2725,7 @@ boxOzd {
 	position: fixed;
 	left:1400px;
 	z-index: 1;
-	color: rgb(0,200,0);
+	color: rgb(0,0,200);
 	background-color: rgb(40,40,40);
 	top:200px;
 	font-size: 30px;
@@ -2828,13 +2828,13 @@ h3 {
 	color: rgb(200,200,200);
 }
 .z3vRcc-ZoZQ1 {
-	color: rgb(10,200,10);
+	color: rgb(10,10,200);
 }
 .Pce5Kb {
-	color: rgb(0,200,0);
+	color: rgb(0,0,200);
 }
 .asQXV {
-	color: rgb(0,200,0)!important;
+	color: rgb(0,0,200)!important;
 }
 .NMm5M {
 	color: rgb(200,200,200);
@@ -2858,10 +2858,10 @@ body {
 
 }
 a {
-	color: rgb(0,200,0)!important;
+	color: rgb(0,0,200)!important;
 }
 a:hover {
-	color: rgb(100,200,100)!important;
+	color: rgb(100,100,200)!important;
 }
 .Tabkde .OX4Vcb {}
 
@@ -2978,7 +2978,7 @@ a:hover {
 	height: 40px;
 }
 .hN1OOc.eumXzf:after {
-	border-color: lime;
+	border-color: blue;
 }
 .hN1OOc.eumXzf {
 	background-color: rgb(40,40,40)!important;
@@ -3094,16 +3094,16 @@ a:hover {
 	color: rgb(200,200,200)
 }
 .B7SYid span {
-	color: rgb(0,200,0)
+	color: rgb(0,0,200)
 }
 .P47N4e {
 	display: none
 }
 .ypv4re {
-	border-color: rgb(0,200,0)!important;
+	border-color: rgb(0,0,200)!important;
 }
 .RveJvd {
-	color:rgB(0,200,0);
+	color:rgB(0,0,200);
 }
 .UQuaGc {
 	background-color: rgb(30,30,30);
@@ -3133,7 +3133,7 @@ a:hover {
 	width: 1250px
 }
 .A6dC2c.zZN2Lb-Wvd9Cc {
-	color: rgb(0,200,0)!important
+	color: rgb(0,0,200)!important
 }
 .UISY8d-Ysl7Fe {
 	background-color: rgb(20,20,20)!important
@@ -3143,7 +3143,7 @@ a:hover {
 	background-color: rgb(20,20,20)!important
 }
 .m1PbN {
-	background-color: rgb(0,100,0)!important
+	background-color: rgb(0,0,100)!important
 }
 .Ag4wUb .uO32ac {
 	border: none
@@ -3422,7 +3422,7 @@ a:hover {
 	padding-top: 200px!important;
 }
 h2 {
-	color: rgb(0,200,0)!important
+	color: rgb(0,0,200)!important
 }
 .xVPuB .I9OJHe {
 	border: none!important;
@@ -3525,7 +3525,7 @@ h2 {
 	padding-right: 20px
 }
 .ksaOtd {
-	color: rgb(0,200,0)
+	color: rgb(0,0,200)
 }
 .Rj2Mlf.OLiIxf.PDpWxe.LQeN7.eVOdue.FL3Khc {
 	width:300px!important;
@@ -3621,7 +3621,7 @@ h2 {
 .M4LFnf:hover {
 	background-color: rgb(0,0,0)!important;
 	width: 80%!important;
-	box-shadow: 5px 5px 20px rgb(0,100,0)
+	box-shadow: 5px 5px 20px rgb(0,0,100)
 }
 .u73Apc {
 	margin: 10px!important;
@@ -3648,7 +3648,7 @@ h2 {
 	background-color: rgb(0,0,0,0.2)!important
 }
 .ee1HBc.bFjUmb-Wvd9Cc, .ee1HBc .bFjUmb-Wvd9Cc, .ee1HBc.CNpREd.bFjUmb-Wvd9Cc, .ee1HBc.CNpREd .bFjUmb-Wvd9Cc {
-    background-color: rgb(0,200,0);!important
+    background-color: rgb(0,0,200);!important
 }
 .kRqvHe.bFjUmb-Ysl7Fe {
 	background-color: rgb(0,0,0)!important
@@ -3755,7 +3755,7 @@ img {
 	background-color: rgb(0,0,0,0.5)
 }
 .Evt7cb {
-	color: rgb(0,200,0)!important
+	color: rgb(0,0,200)!important
 }
 .kCyAyd .l4V7wb {
 	text-align: center!important; 
@@ -3831,7 +3831,7 @@ backdrop-filter:blur(6px)!important;
 	height: 10px;
 	width: 1200px;
 	margin-left: 20px;
-	box-shadow: 0px 0px 30px rgb(0,200,0)
+	box-shadow: 0px 0px 30px rgb(0,0,200)
 }
 .QRiHXd.VBEdtc-Wvd9Cc {
 	background-color: rgb(0,0,0,0)!important;
@@ -3853,14 +3853,14 @@ backdrop-filter:blur(6px)!important;
 
 }
 .cnOaDb.vTcY1d .nZC2Ae {
-	color: rgb(0,150,0)!important
+	color: rgb(0,0,150)!important
 }
 .qk0lee {
 	background-color: rgb(0,0,0,0)!important;
 }
 
 .cXrdqd {
-	background-color: rgb(0,200,0)!important;
+	background-color: rgb(0,0,200)!important;
 	border: red!important
 }
 .svNSpd {
@@ -4109,7 +4109,7 @@ c
 	background-color: rgb(0,0,0,0.5)
 }
 .q1Kmyc {
-    border-color: rgb(0, 100, 0)!important;
+    border-color: rgb(0, 0, 100)!important;
 }
 
 .CcC9kf .ALvsPd .I9OJHe {
@@ -4164,7 +4164,7 @@ a[aria-label~="Calender"] {
 
 
 .gJk24c {
-color:rgb(0,200,0);	
+color:rgb(0,0,200);	
 }
 
 
@@ -4235,3 +4235,5 @@ background-position: fixed;
 }.KEDCCd {
 	margin-left:  0px!important;
 }
+
+
